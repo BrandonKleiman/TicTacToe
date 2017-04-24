@@ -1,11 +1,19 @@
 {
   "name": "tictactoe",
   "version": "1.0.0",
-  "description": "",
+  "description": "a very basic tic tac toe game",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonKleiman/TicTacToe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrandonKleiman/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/BrandonKleiman/TicTacToe#readme"
 }
